@@ -56,9 +56,7 @@ npm run dev
 
 ### Application URLs
 
-* Frontend: http://localhost:3000
-* Backend: http://localhost:5000
-
+* localhost:3000
 ## Usage
 
 1. Register an account
