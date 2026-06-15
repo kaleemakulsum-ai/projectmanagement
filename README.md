@@ -128,6 +128,5 @@ The application will be available at:
 - GET /api/notifications - Get all notifications for user
 - PUT /api/notifications/:id/read - Mark notification as read
 
-## License
-
-ISC
+Author:kulsum
+github repository:https://github.com/kaleemakulsum-ai/projectmanagement
